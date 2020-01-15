@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-01-15T17:02:17 CST" name="Default suite" finished-at="2020-01-15T17:03:39 CST" duration-ms="82282">
+    <groups>
+    </groups>
+    <test started-at="2020-01-15T17:02:17 CST" name="Default test" finished-at="2020-01-15T17:03:39 CST" duration-ms="82282">
+      <class name="com.TIAA.qa.testcases.LandingPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.TIAA.qa.testcases.LandingPageTest@7c1e2a9e]" started-at="2020-01-15T17:02:17 CST" name="setup" finished-at="2020-01-15T17:02:38 CST" duration-ms="21233" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="displayPageTitle()[pri:0, instance:com.TIAA.qa.testcases.LandingPageTest@7c1e2a9e]" started-at="2020-01-15T17:02:38 CST" name="displayPageTitle" finished-at="2020-01-15T17:02:40 CST" duration-ms="1767" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- displayPageTitle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.TIAA.qa.testcases.LandingPageTest@7c1e2a9e]" started-at="2020-01-15T17:02:40 CST" name="tearDown" finished-at="2020-01-15T17:02:41 CST" duration-ms="972" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.TIAA.qa.testcases.LandingPageTest@7c1e2a9e]" started-at="2020-01-15T17:02:41 CST" name="setup" finished-at="2020-01-15T17:03:00 CST" duration-ms="19387" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="displayTIAALogo()[pri:1, instance:com.TIAA.qa.testcases.LandingPageTest@7c1e2a9e]" started-at="2020-01-15T17:03:00 CST" name="displayTIAALogo" finished-at="2020-01-15T17:03:00 CST" duration-ms="83" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- displayTIAALogo -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.TIAA.qa.testcases.LandingPageTest@7c1e2a9e]" started-at="2020-01-15T17:03:00 CST" name="tearDown" finished-at="2020-01-15T17:03:01 CST" duration-ms="690" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.TIAA.qa.testcases.LandingPageTest@7c1e2a9e]" started-at="2020-01-15T17:03:01 CST" name="setup" finished-at="2020-01-15T17:03:18 CST" duration-ms="17080" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="dispalyProductSelectionPage()[pri:2, instance:com.TIAA.qa.testcases.LandingPageTest@7c1e2a9e]" started-at="2020-01-15T17:03:18 CST" name="dispalyProductSelectionPage" finished-at="2020-01-15T17:03:38 CST" duration-ms="20149" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dispalyProductSelectionPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.TIAA.qa.testcases.LandingPageTest@7c1e2a9e]" started-at="2020-01-15T17:03:38 CST" name="tearDown" finished-at="2020-01-15T17:03:39 CST" duration-ms="790" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.TIAA.qa.testcases.LandingPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
