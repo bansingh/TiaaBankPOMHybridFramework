@@ -22,7 +22,7 @@ public class TestBase {
 	public TestBase(){
 		try {
 			prop = new Properties();
-			FileInputStream ip = new FileInputStream("C:\\Users\\vanda\\eclipse-workspace\\TiaaBankPOMHybridFramework\\src\\main\\java\\com\\TIAA\\qa\\config\\config.properties");
+			FileInputStream ip = new FileInputStream("C:\\Users\\vanda\\eclipse-workspace\\TiaaBankPOMHybridFramework\\TiaaBankPOMHybridFramework\\src\\main\\java\\com\\TIAA\\qa\\config\\config.properties");
 			prop.load(ip);
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();

@@ -28,7 +28,7 @@ public class LandingPageTest extends TestBase{
 		
 		String title = landingPage.validatePageTitle();
 		Assert.assertEquals(title, "TIAA Bank :: Bank on Better: High Yields, Home Loans, 24/7 Support");
-		System.out.println("Title displayed correctly as expected");
+		System.out.println("Title displayed as expected");
 	}
 	
 	@Test(priority=1)
