@@ -1,45 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-01-19T15:15:07 CST" name="Default suite" finished-at="2020-01-19T15:16:13 CST" duration-ms="66150">
+  <suite name="Default suite" duration-ms="89494" started-at="2020-01-20T19:28:59 CST" finished-at="2020-01-20T19:30:28 CST">
     <groups>
     </groups>
-    <test started-at="2020-01-19T15:15:07 CST" name="Default test" finished-at="2020-01-19T15:16:13 CST" duration-ms="66150">
+    <test name="Default test" duration-ms="89494" started-at="2020-01-20T19:28:59 CST" finished-at="2020-01-20T19:30:28 CST">
       <class name="com.TIAA.qa.testcases.LandingPageTest">
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.TIAA.qa.testcases.LandingPageTest@5609159b]" started-at="2020-01-19T15:15:07 CST" name="setup" finished-at="2020-01-19T15:15:25 CST" duration-ms="17794" status="PASS">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.TIAA.qa.testcases.LandingPageTest@57855c9a]" name="setup" is-config="true" duration-ms="26922" started-at="2020-01-20T19:28:59 CST" finished-at="2020-01-20T19:29:26 CST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="displayPageTitle()[pri:0, instance:com.TIAA.qa.testcases.LandingPageTest@5609159b]" started-at="2020-01-19T15:15:25 CST" name="displayPageTitle" finished-at="2020-01-19T15:15:25 CST" duration-ms="15" status="PASS">
+        <test-method status="PASS" signature="displayPageTitle()[pri:0, instance:com.TIAA.qa.testcases.LandingPageTest@57855c9a]" name="displayPageTitle" duration-ms="124" started-at="2020-01-20T19:29:26 CST" finished-at="2020-01-20T19:29:26 CST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- displayPageTitle -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.TIAA.qa.testcases.LandingPageTest@5609159b]" started-at="2020-01-19T15:15:25 CST" name="tearDown" finished-at="2020-01-19T15:15:26 CST" duration-ms="757" status="PASS">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.TIAA.qa.testcases.LandingPageTest@57855c9a]" name="tearDown" is-config="true" duration-ms="1278" started-at="2020-01-20T19:29:26 CST" finished-at="2020-01-20T19:29:27 CST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.TIAA.qa.testcases.LandingPageTest@5609159b]" started-at="2020-01-19T15:15:26 CST" name="setup" finished-at="2020-01-19T15:15:43 CST" duration-ms="16815" status="PASS">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.TIAA.qa.testcases.LandingPageTest@57855c9a]" name="setup" is-config="true" duration-ms="22237" started-at="2020-01-20T19:29:27 CST" finished-at="2020-01-20T19:29:49 CST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="displayTIAALogo()[pri:1, instance:com.TIAA.qa.testcases.LandingPageTest@5609159b]" started-at="2020-01-19T15:15:43 CST" name="displayTIAALogo" finished-at="2020-01-19T15:15:43 CST" duration-ms="37" status="PASS">
+        <test-method status="PASS" signature="displayTIAALogo()[pri:1, instance:com.TIAA.qa.testcases.LandingPageTest@57855c9a]" name="displayTIAALogo" duration-ms="60" started-at="2020-01-20T19:29:49 CST" finished-at="2020-01-20T19:29:49 CST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- displayTIAALogo -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.TIAA.qa.testcases.LandingPageTest@5609159b]" started-at="2020-01-19T15:15:43 CST" name="tearDown" finished-at="2020-01-19T15:15:43 CST" duration-ms="750" status="PASS">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.TIAA.qa.testcases.LandingPageTest@57855c9a]" name="tearDown" is-config="true" duration-ms="734" started-at="2020-01-20T19:29:49 CST" finished-at="2020-01-20T19:29:50 CST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.TIAA.qa.testcases.LandingPageTest@5609159b]" started-at="2020-01-19T15:15:43 CST" name="setup" finished-at="2020-01-19T15:16:01 CST" duration-ms="17263" status="PASS">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.TIAA.qa.testcases.LandingPageTest@57855c9a]" name="setup" is-config="true" duration-ms="19154" started-at="2020-01-20T19:29:50 CST" finished-at="2020-01-20T19:30:09 CST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="dispalyProductSelectionPage()[pri:2, instance:com.TIAA.qa.testcases.LandingPageTest@5609159b]" started-at="2020-01-19T15:16:01 CST" name="dispalyProductSelectionPage" finished-at="2020-01-19T15:16:12 CST" duration-ms="11810" status="PASS">
+        <test-method status="PASS" signature="dispalyProductSelectionPage()[pri:2, instance:com.TIAA.qa.testcases.LandingPageTest@57855c9a]" name="dispalyProductSelectionPage" duration-ms="18100" started-at="2020-01-20T19:30:09 CST" finished-at="2020-01-20T19:30:27 CST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- dispalyProductSelectionPage -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.TIAA.qa.testcases.LandingPageTest@5609159b]" started-at="2020-01-19T15:16:12 CST" name="tearDown" finished-at="2020-01-19T15:16:13 CST" duration-ms="833" status="PASS">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.TIAA.qa.testcases.LandingPageTest@57855c9a]" name="tearDown" is-config="true" duration-ms="780" started-at="2020-01-20T19:30:27 CST" finished-at="2020-01-20T19:30:28 CST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
