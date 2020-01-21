@@ -2,44 +2,44 @@
 <testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="89494" started-at="2020-01-20T19:28:59 CST" finished-at="2020-01-20T19:30:28 CST">
+  <suite name="Default suite" duration-ms="81084" started-at="2020-01-20T20:46:26 CST" finished-at="2020-01-20T20:47:47 CST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="89494" started-at="2020-01-20T19:28:59 CST" finished-at="2020-01-20T19:30:28 CST">
+    <test name="Default test" duration-ms="81084" started-at="2020-01-20T20:46:26 CST" finished-at="2020-01-20T20:47:47 CST">
       <class name="com.TIAA.qa.testcases.LandingPageTest">
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.TIAA.qa.testcases.LandingPageTest@57855c9a]" name="setup" is-config="true" duration-ms="26922" started-at="2020-01-20T19:28:59 CST" finished-at="2020-01-20T19:29:26 CST">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.TIAA.qa.testcases.LandingPageTest@57855c9a]" name="setup" is-config="true" duration-ms="20447" started-at="2020-01-20T20:46:26 CST" finished-at="2020-01-20T20:46:46 CST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="displayPageTitle()[pri:0, instance:com.TIAA.qa.testcases.LandingPageTest@57855c9a]" name="displayPageTitle" duration-ms="124" started-at="2020-01-20T19:29:26 CST" finished-at="2020-01-20T19:29:26 CST">
+        <test-method status="PASS" signature="displayPageTitle()[pri:0, instance:com.TIAA.qa.testcases.LandingPageTest@57855c9a]" name="displayPageTitle" duration-ms="52" started-at="2020-01-20T20:46:46 CST" finished-at="2020-01-20T20:46:46 CST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- displayPageTitle -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.TIAA.qa.testcases.LandingPageTest@57855c9a]" name="tearDown" is-config="true" duration-ms="1278" started-at="2020-01-20T19:29:26 CST" finished-at="2020-01-20T19:29:27 CST">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.TIAA.qa.testcases.LandingPageTest@57855c9a]" name="tearDown" is-config="true" duration-ms="833" started-at="2020-01-20T20:46:46 CST" finished-at="2020-01-20T20:46:47 CST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.TIAA.qa.testcases.LandingPageTest@57855c9a]" name="setup" is-config="true" duration-ms="22237" started-at="2020-01-20T19:29:27 CST" finished-at="2020-01-20T19:29:49 CST">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.TIAA.qa.testcases.LandingPageTest@57855c9a]" name="setup" is-config="true" duration-ms="21045" started-at="2020-01-20T20:46:47 CST" finished-at="2020-01-20T20:47:08 CST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="displayTIAALogo()[pri:1, instance:com.TIAA.qa.testcases.LandingPageTest@57855c9a]" name="displayTIAALogo" duration-ms="60" started-at="2020-01-20T19:29:49 CST" finished-at="2020-01-20T19:29:49 CST">
+        <test-method status="PASS" signature="displayTIAALogo()[pri:1, instance:com.TIAA.qa.testcases.LandingPageTest@57855c9a]" name="displayTIAALogo" duration-ms="61" started-at="2020-01-20T20:47:08 CST" finished-at="2020-01-20T20:47:08 CST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- displayTIAALogo -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.TIAA.qa.testcases.LandingPageTest@57855c9a]" name="tearDown" is-config="true" duration-ms="734" started-at="2020-01-20T19:29:49 CST" finished-at="2020-01-20T19:29:50 CST">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.TIAA.qa.testcases.LandingPageTest@57855c9a]" name="tearDown" is-config="true" duration-ms="1070" started-at="2020-01-20T20:47:08 CST" finished-at="2020-01-20T20:47:09 CST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.TIAA.qa.testcases.LandingPageTest@57855c9a]" name="setup" is-config="true" duration-ms="19154" started-at="2020-01-20T19:29:50 CST" finished-at="2020-01-20T19:30:09 CST">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.TIAA.qa.testcases.LandingPageTest@57855c9a]" name="setup" is-config="true" duration-ms="19952" started-at="2020-01-20T20:47:09 CST" finished-at="2020-01-20T20:47:29 CST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="dispalyProductSelectionPage()[pri:2, instance:com.TIAA.qa.testcases.LandingPageTest@57855c9a]" name="dispalyProductSelectionPage" duration-ms="18100" started-at="2020-01-20T19:30:09 CST" finished-at="2020-01-20T19:30:27 CST">
+        <test-method status="PASS" signature="dispalyProductSelectionPage()[pri:2, instance:com.TIAA.qa.testcases.LandingPageTest@57855c9a]" name="dispalyProductSelectionPage" duration-ms="16622" started-at="2020-01-20T20:47:29 CST" finished-at="2020-01-20T20:47:46 CST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- dispalyProductSelectionPage -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.TIAA.qa.testcases.LandingPageTest@57855c9a]" name="tearDown" is-config="true" duration-ms="780" started-at="2020-01-20T19:30:27 CST" finished-at="2020-01-20T19:30:28 CST">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.TIAA.qa.testcases.LandingPageTest@57855c9a]" name="tearDown" is-config="true" duration-ms="918" started-at="2020-01-20T20:47:46 CST" finished-at="2020-01-20T20:47:47 CST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
