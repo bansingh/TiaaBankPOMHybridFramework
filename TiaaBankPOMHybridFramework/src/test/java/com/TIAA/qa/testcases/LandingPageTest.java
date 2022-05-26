@@ -16,7 +16,7 @@ public class LandingPageTest extends TestBase{
 		super();
 	}
 
-	@BeforeMethod
+	@BeforeTest
 	public void setup(){
 		initialization();
 		landingPage = new LandingPage();
@@ -27,7 +27,7 @@ public class LandingPageTest extends TestBase{
 	public void displayPageTitle() {
 		
 		String title = landingPage.validatePageTitle();
-		Assert.assertEquals(title, "TIAA Bank :: Bank on Better: High Yields, Home Loans, 24/7 Support");
+		Assert.assertEquals(title, "Banking & Investing :: TIAA Bank");
 		System.out.println("Title displayed as expected");
 	}
 	
@@ -46,7 +46,7 @@ public class LandingPageTest extends TestBase{
 		System.out.println("User is now on Product Selection Page");
 	}
 	
-    @AfterMethod
+    @AfterTest
     public void tearDown() {
     	driver.quit();
     }

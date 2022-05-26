@@ -22,7 +22,7 @@ public class TestBase {
 	public TestBase(){
 		try {
 			prop = new Properties();
-			FileInputStream ip = new FileInputStream("C:\\Users\\vanda\\eclipse-workspace\\TiaaBankPOMHybridFramework\\TiaaBankPOMHybridFramework\\src\\main\\java\\com\\TIAA\\qa\\config\\config.properties");
+			FileInputStream ip = new FileInputStream("C:\\Users\\vanda\\git\\TiaaBankPOMHybridFramework\\TiaaBankPOMHybridFramework\\src\\main\\java\\com\\TIAA\\qa\\config\\config.properties");
 			prop.load(ip);
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
@@ -36,7 +36,7 @@ public class TestBase {
 		String browserName = prop.getProperty("browser");
 		if(browserName.equals("chrome"))
 		{
-			System.setProperty("webdriver.chrome.driver", "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe");
+			System.setProperty("webdriver.chrome.driver", "C:\\Users\\vanda\\Downloads\\chromedriver_win32\\chromedriver.exe");
 			driver = new ChromeDriver();
 		}
 		else if(browserName.equals("FF"))
@@ -54,4 +54,3 @@ public class TestBase {
 	}
 }
 	
-

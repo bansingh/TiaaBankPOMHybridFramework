@@ -5,8 +5,6 @@
     <classes>
       <class name="com.TIAA.qa.testcases.LandingPageTest">
         <methods>
-          <include name="displayTIAALogo"/>
-          <include name="dispalyProductSelectionPage"/>
           <include name="tearDown"/>
           <include name="displayPageTitle"/>
           <include name="setup"/>
