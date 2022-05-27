@@ -36,7 +36,7 @@ public class LandingPageTest extends TestBase{
 		
 		boolean flag = landingPage.validateLogo();
 		Assert.assertTrue(flag);
-		System.out.println("TIAA logo present on the page");
+		System.out.println("TIAA Bank logo present on the page");
 		
 	}
 	
